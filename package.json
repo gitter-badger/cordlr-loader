@@ -1,7 +1,7 @@
 {
   "name": "cordlr-loader",
   "description": "The default loader for cordlr.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/devcord/cordlr-loader",
   "author": "Jamen Marz (https://github.com/jamen)",
   "repository": "devcord/cordlr-loader",
