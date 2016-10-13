@@ -1,0 +1,41 @@
+{
+  "name": "cordlr-loader",
+  "description": "The default loader for cordlr.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/devcord/cordlr-loader",
+  "author": "Jamen Marz (https://github.com/jamen)",
+  "repository": "devcord/cordlr-loader",
+  "bugs": {
+    "url": "https://github.com/devcord/cordlr-loader/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "cordlr",
+    "cordlr-loader",
+    "plugin",
+    "plugins",
+    "discord",
+    "bot"
+  ],
+  "devDependencies": {
+    "eslint": "^3.7.1",
+    "eslint-config-standard": "^6.2.0",
+    "eslint-plugin-promise": "^3.0.0",
+    "eslint-plugin-standard": "^2.0.1"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "resolve": "^1.1.7",
+    "spawn-args": "^0.2.0"
+  }
+}
