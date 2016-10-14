@@ -65,4 +65,6 @@ function loader (bot, config = {}) {
   // Log in using token or email/pass
   bot.login(config.token || config.email, config.password)
   .then(() => bot.emit('loaded'), e => {})
+  
+  return bot
 }
