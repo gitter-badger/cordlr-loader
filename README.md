@@ -1,5 +1,7 @@
 # cordlr-loader [![NPM version](https://badge.fury.io/js/cordlr-loader.svg)](https://npmjs.org/package/cordlr-loader) [![Build Status](https://travis-ci.org/jamen/pull-css.svg?branch=master)](https://travis-ci.org/devcord/cordlr-loader)
 
+[![Join the chat at https://gitter.im/Devcord/cordlr-loader](https://badges.gitter.im/Devcord/cordlr-loader.svg)](https://gitter.im/Devcord/cordlr-loader?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > The default loader for cordlr.
 
 ## Installation
